@@ -1,0 +1,1 @@
+{"name":"Local: prefix","url":"/home/wondm/CSEC_CPD-solutions/prefix.py","tests":[{"id":1701110622386,"input":"[0,-1,-1,-1,-1,-1]","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/wondm/CSEC_CPD-solutions/prefix.py","group":"local","local":true}
